@@ -1,0 +1,13 @@
+.pam{
+    display: block;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #787;
+    background-color: rgba(200, 215, 176, 0.5);
+    padding: 12px 24px;
+    margin: 2px;
+}
+.t{
+    font-weight: bold;
+    font-size: 20px;
+}
